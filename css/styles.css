@@ -1,0 +1,13 @@
+.sandcastle{
+  display: none;
+}
+
+.lightText{
+  color:lightgrey;
+  background-color:navy;
+}
+
+.normal{
+  color: black;
+  background-color: white
+}
